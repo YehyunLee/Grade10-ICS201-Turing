@@ -1,0 +1,35 @@
+﻿This is just a notepad to make sure that I complete all of the rubric requirements.
+----------------------------------------------------------------------------------------------------------
+
+Coding Content (A)
+-Information banner at top of program (programmers name, date): Yes!
+-Sectional divisions in the order: Variable & Constants, Procedures, Mainline Program.: Yes!
+-Creative pixel graphics (at least 3 shapes, delays, cls, colour): Yes!
+-audio clip and image: Yes!
+-Procedures (at least 4). Represent at least 75% of game: Yes!
+-Loops and Selection structures: Yes!
+-Hasch or Button feature, Randomization: Yes!
+-Logical variable and constant names: Yes!
+-Questions require user inputted variables: Yes!	
+-Play again structure with validation check: Yes!
+-No duplicated/repeated coding.: Yes!
+-Counter for displaying % of success or completion: Yes!
+-At least 200 lines: Yes!
+/40
+Flow Chart
+-Contains at least 16 shapes and all the shapes covered in class.: Yes!
+-Created on 1 page: Yes! It's one big page. But you said it doesn't really matter.
+-It must adhere to flow charting rules. For example
+-arrows labelled (yes or no),: Yes!
+-a title and content in each shape: Yes!
+-no crossing of lines,: Yes!
+-only vertical and horizontal lines.: Yes!
+/10
+Program Structure & Submission
+-ReadMe File created in Notepad saved as Readme.txt . Should include: Yes!
+programmer’s names, date of completion, version of Turing used, a list of
+variable names used with descriptions, contact information, copyright
+information.
+-Proper naming format of all files
+-Proper sentence structure, punctuation, and capitalization, proper spacing: Yes!
+-Submit executable file (Click Run, Generate stand-alone program): Yes!

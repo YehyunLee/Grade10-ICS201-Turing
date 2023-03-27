@@ -1,0 +1,21 @@
+IDEA
+--------------------------------------------------------------------
+::SETTING::
+- Menu
+	Play
+	How to play
+	Setting
+	Quit
+- Play
+		Rock paper scissors with computer
+		Winner, roll the Dice, it can be diff than dice
+		Move(Number from the dice), one score if player one laps the board
+		Repeat step one ~ three
+		Play until someone gets 10 score
+- Surrender
+- Quit
+- Background
+	Maybe animation?
+- Background sound
+	Two music, repeat
+--------------------------------------------------------------------
